@@ -7,5 +7,8 @@ beforeEach(function() {
   bowlinggame = new bowling();
 });
 
+it('bowling game starts', function () {
+});
+
 
 });
